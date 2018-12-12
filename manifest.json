@@ -1,0 +1,61 @@
+{
+    "workshop": {
+        "title": "Workshop Title",
+        "description": "Description of this workshop.",
+        "theme": "default",
+        "interactive":"https://launch.oracle.com/?",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "Intro.md",
+                "title": "Workshop Introduction",
+                "description": "Step-by-step workshop instructions"
+
+            },
+            {
+                "number": "100",
+                "filename": "LabGuide100.md",
+                "title": "Lab 100: Login to your Oracle Cloud Account..",
+                "description": ""
+
+            },
+            {
+                "number": "200",
+                "filename": "LabGuide200.md",
+                "title": "Lab 200:  Create Autonomous Data Warehouse Cloud Service (ADWC), connect it to ADWC and import a table from local machine",
+                "description": ""
+
+            },
+            {
+                "number": "300",
+                "filename": "LabGuide300.md",
+                "title": "Lab 300:  Create a Compute Oracle Linux instance",
+                "description": ""
+
+            },
+            {
+                "number": "400",
+                "filename": "LabGuide400.md",
+                "title": "Lab 400: Configure Linux Instance for Datapump.",
+                "description": "Short description of lab 400"
+
+            },
+            {
+                "number": "500",
+                "filename": "LabGuide500.md",
+                "title": "Lab 500: Export a table from ADWC through datapump.",
+                "description": ""
+
+            },
+            {
+                "number": "600",
+                "filename": "LabGuide600.md",
+                "title": "Lab 600: Import a table from ADWC through datapump.",
+                "description": ""
+
+            }
+
+
+        ]
+    }
+}
