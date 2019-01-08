@@ -39,4 +39,26 @@ This lab guide will walk you through the process of importing a table in ADWC th
    You will be able to see CHANNELS table again 
    
    ![](images/datapump/compute46.png)
-  
+ 
+ ###  **STEP 3**: Import a table using impdp, Datapump through object storage.
+
+- Makes sure that you are in **/home/opc/oracle/instantclient_18_3**. 
+
+- You can also import a schema by mentioning another parameter as **schema**.
+
+- Copy paste the command below, but before that, change the following parameter. 
+
+    - **service_name** : `Name of the service, for this demo we are using high`
+
+    - **dumpfile_name** : `Dump file set location. Here it is the swift url of the file in Object Storage`
+    
+   **impdp admin@service_name directory=data_pump_dir 
+   credential=def_cred_name 
+   dumpfile=https://swiftobjectstorage.us-ashburn-1.oraclecloud.com/v1/gse00014638/ETEBucket/DataPumpDemo.dmp transform=segment_attributes:n 
+   transform=dwcs_cvt_iots:y transform=constraint_use_default_index:y 
+   exclude=index, cluster, indextype, materialized_view, materialized_view_log, materialized_zonemap, db_link**   
+   
+   
+   You will be able to see CHANNELS table again 
+   
+   ![](images/datapump/compute46.png)
