@@ -18,7 +18,7 @@ This lab guide will walk you through the process of configuring a Compute Linux 
 ## Required Artifacts
 
 - An oracle cloud account with Autonomous Data Warehouse Cloud Service.
-- FileZilla or any SFTP software.
+- FileZilla or any SFTP software for windows.
 
 ### **STEP 1**: Download Instant Client.
 
@@ -33,6 +33,8 @@ In this step you will download **Instant Client** for ADWC.
 - Select **Instant Client for Linux x86-64**. Click on **Accept Licence Agreement**. Navigate to **Version 18.3.0.0.0** section, then under **Base - one of these packages is required** section, click on **instantclient-basic-linux.x64-18.3.0.0.0dbru.zip**. It will download this package. Under **Tools - optional packages** section, click on **instantclient-tools-linux.x64-18.3.0.0.0dbru.zip**. This will download the package required for data pump.
 
   ![](images/datapump/compute22.png)
+
+- For quick access, copy paste both the zip files to **DemoADWC** directory that you have created in Lab 2. 
     
 ### **STEP 2**: Transfer files to Compute instance.
 
@@ -40,7 +42,18 @@ In this step you will download **Instant Client** for ADWC.
     
     ![](images/datapump/compute15.png)
 
-- Open any SFTP software. I am using FileZilla, so I will explain the steps through FileZilla.
+- **For Mac users**: We will transfer a few files to the compute instance. 
+  Navigate to the **DemoADWC** directory where you have downloaded the wallet and instant client. 
+  
+  Type the following command from the command line:
+ 
+  **scp -i {your folder location}/{wallet file name}.zip opc@{IP address}:{wallet file name}.zip**
+  
+  **scp -i {your folder location}/{instantclient basic package file name}.zip opc@{IP address}:{instantclient basic package file name}.zip**
+  
+  **scp -i {your folder location}/{instantclient tool package file name}.zip opc@{IP address}:{instantclient tool package file name}.zip**
+    
+- **For windows user**: Open any SFTP software. I am using FileZilla, so I will explain the steps through FileZilla.
   Click on **FileZilla** and then **Settings**. 
     
     ![](images/datapump/compute16.png)

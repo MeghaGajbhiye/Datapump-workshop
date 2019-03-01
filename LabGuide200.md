@@ -48,6 +48,8 @@ This lab guide will walk you through the process of creating Autonomous Data War
     
   Note: Remember this password. This can be different than the password you have entered while creating ADWC instance.
 
+- For quick access, create a directory **DemoADWC** and copy paste this zip wallet file there. 
+
 ### **STEP 2**: Connect ADWC with SQL Developer and create a credential.
 
 - Connect ADWC with SQL Developer.

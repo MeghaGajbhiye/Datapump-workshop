@@ -1,6 +1,6 @@
-# Data Pump with Autonomous Data Warehouse Cloud Service
+# Data Migration with Autonomous Data Warehouse Cloud Service
 
-Welcome to the Data pump workshop. This workshop will walk you through the process of configuring Data Pump with Autonomous Data Warehouse Cloud service in Linux Compute Instance... 
+Welcome to the Data Migration workshop. This workshop will walk you through the process of configuring Data Pump with Autonomous Data Warehouse Cloud service in Linux Compute Instance... 
 
 ## Objectives
 - Create Autonomous Data Warehouse Cloud Service (ADWC) instance.

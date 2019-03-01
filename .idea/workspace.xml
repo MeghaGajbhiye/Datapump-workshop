@@ -2,133 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17bca010-80da-4546-af11-82b900d204c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PandocsConversionBackup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentGuideBackup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabGuide100.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabGuide300.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabGuide500.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabGuide600.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/datapump/compute1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabGuide200.md" beforeDir="false" afterPath="$PROJECT_DIR$/LabGuide200.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabGuide400.md" beforeDir="false" afterPath="$PROJECT_DIR$/LabGuide400.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LabGuide500.md" beforeDir="false" afterPath="$PROJECT_DIR$/LabGuide500.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LabGuide600.md" beforeDir="false" afterPath="$PROJECT_DIR$/LabGuide600.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandocsConversion.md" beforeDir="false" afterPath="$PROJECT_DIR$/PandocsConversion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGuide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/Home-backup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/Home-backup.md" beforeDir="false" afterPath="$PROJECT_DIR$/Home-backup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/Intro.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/LabGuide100.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/LabGuide200.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/LabGuide300.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/LabGuide400.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/PandocsConversion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/PandocsConversion.md" beforeDir="false" afterPath="$PROJECT_DIR$/PandocsConversion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../workshop-template/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/StudentGuide.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/WorkshopHeader.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/css/default-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/css/solutionEngTemplate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/css/touch-the-cloud-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/css/workshop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-3.5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-5.5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-7.5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-lab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureGreater.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureLess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureUpArrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/TeamIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Instructor Led.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Self-Service.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Virtual Workshop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/WorkshopMenu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/bala.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic-ForecastingPlanning-wht.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_help_white_18dp_1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_black_18px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_black_24px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_24px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_36px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_48px.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/john.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/laptop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/linux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/lisa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/mac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture-Title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/virtualbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/images/windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/js/workshop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest-multi-version.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest-single-version.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/primus.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop-template/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/StudentGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGuide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/WorkshopHeader.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/WorkshopHeader.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/css/default-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/css/solutionEngTemplate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/solutionEngTemplate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/css/touch-the-cloud-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/touch-the-cloud-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/css/workshop.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/workshop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-19.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-21.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-22.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-3.5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-3.5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-5.5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-5.5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-7.5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-7.5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/Picture100-lab.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/Picture100-lab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureGreater.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/PictureGreater.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureLess.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/PictureLess.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/PictureUpArrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/PictureUpArrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/100/TeamIcon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/100/TeamIcon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Instructor Led.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Instructor Led.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Self-Service.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Self-Service.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/Virtual Workshop.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Virtual Workshop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/WorkshopMenu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/WorkshopMenu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/bala.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bala.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic-ForecastingPlanning-wht.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic-ForecastingPlanning-wht.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_help_white_18dp_1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_help_white_18dp_1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_black_18px.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_home_black_18px.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_black_24px.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_home_black_24px.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_24px.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_home_white_24px.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_36px.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_home_white_36px.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/common/ic_home_white_48px.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/common/ic_home_white_48px.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/john.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/john.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/laptop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/laptop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/linux.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/linux.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/lisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lisa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/mac.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mac.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/pandocsconversion/image9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pandocsconversion/image9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture-Title.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture-Title.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture19.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture20.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture21.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture22.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture23.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture24.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture25.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture26.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture27.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture28.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture29.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture30.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/studentguide/Picture9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/studentguide/Picture9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/virtualbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/virtualbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/images/windows.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/windows.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/js/workshop.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/workshop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest-multi-version.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest-multi-version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest-single-version.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest-single-version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-template/primus.js" beforeDir="false" afterPath="$PROJECT_DIR$/primus.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,49 +177,80 @@
     <session id="1402436270">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="3" />
           <entry key="js" value="1" />
           <entry key="json" value="3" />
-          <entry key="md" value="15" />
+          <entry key="md" value="16" />
           <entry key="test" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1180" />
+          <entry key="md" value="1260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1180" />
+          <entry key="Markdown" value="1260" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1629813636">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="705" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="705" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/LabGuide600.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+              <first_editor relative-caret-position="810">
+                <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -225,50 +258,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primus.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PandocsConversion.md">
+        <entry file="file://$PROJECT_DIR$/LabGuide500.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="600">
+                <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manifest-single-version.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manifest-multi-version.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1433">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PandocsConversionBackup.md">
+        <entry file="file://$PROJECT_DIR$/LabGuide300.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabGuide600.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="257">
-                <caret line="56" column="109" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-101">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -276,12 +282,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LabGuide500.md">
+        <entry file="file://$PROJECT_DIR$/LabGuide400.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="232">
+                <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#md-toolbar#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intro.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="122">
-                <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGuide.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -290,9 +342,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LabGuide200.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="1905">
-                <caret line="127" selection-start-line="127" selection-end-line="127" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="205">
+                <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="95" />
               </first_editor>
               <second_editor />
             </state>
@@ -302,7 +354,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="735">
               <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
             </state>
           </provider>
@@ -324,24 +376,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LabGuide200.md" />
         <option value="$PROJECT_DIR$/LabGuide300.md" />
-        <option value="$PROJECT_DIR$/LabGuide400.md" />
         <option value="$PROJECT_DIR$/LabGuide100.md" />
         <option value="$PROJECT_DIR$/manifest.json" />
-        <option value="$PROJECT_DIR$/Intro.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/StudentGuide.md" />
         <option value="$PROJECT_DIR$/PandocsConversion.md" />
         <option value="$PROJECT_DIR$/LabGuide600.md" />
         <option value="$PROJECT_DIR$/LabGuide500.md" />
+        <option value="$PROJECT_DIR$/Intro.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LabGuide200.md" />
+        <option value="$PROJECT_DIR$/LabGuide400.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="841" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -349,6 +401,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,11 +409,15 @@
               <item name="Datapump-workshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Datapump-workshop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Datapump-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datapump-workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,10 +455,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="841" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2670895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,7 +469,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32977304" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.328877" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -433,51 +490,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#md-toolbar#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Intro.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="163">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LabGuide100.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
           <first_editor relative-caret-position="422">
             <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabGuide300.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="59" selection-end-line="17" selection-end-column="59" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabGuide400.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="142">
-            <caret line="20" column="33" selection-end-line="20" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -491,37 +508,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudentGuide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test" />
     <entry file="file://$PROJECT_DIR$/primus.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PandocsConversionBackup.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PandocsConversion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -534,26 +523,17 @@
     <entry file="file://$PROJECT_DIR$/manifest-single-version.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest-multi-version.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1433">
+        <state relative-caret-position="30">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LabGuide200.md">
+    <entry file="file://$PROJECT_DIR$/PandocsConversionBackup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="1905">
-            <caret line="127" selection-start-line="127" selection-end-line="127" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -561,8 +541,53 @@
     <entry file="file://$PROJECT_DIR$/LabGuide600.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="257">
-            <caret line="56" column="109" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
+          <first_editor relative-caret-position="810">
+            <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#md-toolbar#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGuide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -571,8 +596,38 @@
     <entry file="file://$PROJECT_DIR$/LabGuide500.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="122">
-            <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <first_editor relative-caret-position="600">
+            <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabGuide300.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-101">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabGuide200.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="205">
+            <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="95" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabGuide400.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="232">
+            <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>

@@ -48,9 +48,11 @@ This lab guide will walk you through the process of importing a table in ADWC th
 
 - Copy paste the command below, but before that, change the following parameter. 
 
+    - **credential** : `The credential that you have created in lab 200, step 2`
+
     - **service_name** : `Name of the service, for this demo we are using high`
 
-    - **dumpfile_name** : `Dump file set location. Here it is the swift url of the file in Object Storage`
+    - **dumpfile** : `Dump file set location. Here it is the swift url of the file in Object Storage`
     
    **impdp admin@service_name directory=data_pump_dir 
    credential=def_cred_name 

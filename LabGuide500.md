@@ -38,9 +38,9 @@ This lab guide will walk you through the process of exporting tables from ADWC t
     
     **credential_name** : `Make sure that you change credential name to your own credential that was created in Lab200, step 2.`
     
-    **object_uri** : `Swift URL of your object storage followed by file name that you want it to be stored.`
+    **object_uri** : `Swift URL of your object storage followed by the file name that you want it to be stored.`
     
-    **file_name** : `Name of the file`
+    **file_name** : `Name of the file in data pump directory`
     
     Type the following command :
     
